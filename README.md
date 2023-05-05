@@ -98,9 +98,9 @@ These below are a few intriguing aspects of **translate_sentence** method:
 
 8. We are watching a movie in the cinema.
 
-9.He walked along the quiet street.
+9. He walked along the quiet street.
 
-10.The teacher gave us homework.
+10. The teacher gave us homework.
 
 11. He is dancing in the room.
 
