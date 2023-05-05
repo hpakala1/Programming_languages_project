@@ -120,9 +120,9 @@ These below are a few intriguing aspects of **translate_sentence** method:
 
 1. If the given sentence does not satisfy the given grammar the below error will be provided in the terminal and the program crashes.
 
-![Unidentified grammar error](./Yaw_Axis_Corrected.svg.png)
+![Unidentified grammar error](./WrongGrammar.png)
 
 2. If the given sentence contains a word/phrase that is not present in the given grammar the below error will be provided in the terminal and the program crashes.
 
-![Word not found error](./Yaw_Axis_Corrected.svg.png)
+![Word not found error](./WordMismatch.png)
 
