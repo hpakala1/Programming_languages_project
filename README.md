@@ -126,7 +126,7 @@ These below are a few intriguing aspects of **translate_sentence** method:
 
 ![Word not found error](./WordMismatch.png)
 
-3. If you are not getting any errors and program ran successfully you would be getting an out as shown in below image.
+3. If you are not getting any errors and program ran successfully you would be getting an output as shown in below image.
 
 ![Success Image](./SuccessScreenshot.png)
 
