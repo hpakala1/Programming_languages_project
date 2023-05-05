@@ -50,15 +50,31 @@ These below are a few intriguing aspects of **translate_sentence** method:
 
 5. Create a python virtual environment in this repository.
 
-    ```
-    python3 -m venv venv
-    ```
-
+    a. For MAC users:
+        
+        ```
+        python3 -m venv venv
+        ```
+        
+    b. For Windows users:
+    
+        ```
+        python -m venv venv
+        ```
+        
 6. Activate the python virtual environment.
 
-    ```
-    source venv/bin/activate
-    ```
+    a. For MAC users:
+
+        ```
+        source venv/bin/activate
+        ```
+        
+    b. For Windows users:
+    
+        ```
+        source venv/Scripts/activate
+        ```
 
 7. Install **nltk** library.
 
@@ -126,7 +142,7 @@ These below are a few intriguing aspects of **translate_sentence** method:
 
 ![Word not found error](./WordMismatch.png)
 
-3. If you are not getting any errors and program ran successfully you would be getting an out as shown in below image.
+3. If you are not getting any errors and program ran successfully you would be getting an output as shown in below image.
 
-![Success Image](./Success screenshot.png)
+![Success Image](./SuccessScreenshot.png)
 
