@@ -52,29 +52,29 @@ These below are a few intriguing aspects of **translate_sentence** method:
 
     a. For MAC users:
         
-        ```
-        python3 -m venv venv
-        ```
+    ```
+    python3 -m venv venv
+    ```
         
     b. For Windows users:
     
-        ```
-        python -m venv venv
-        ```
-        
+    ```
+    python -m venv venv
+    ```
+
 6. Activate the python virtual environment.
 
     a. For MAC users:
 
-        ```
-        source venv/bin/activate
-        ```
+    ```
+    source venv/bin/activate
+    ```
         
     b. For Windows users:
     
-        ```
-        source venv/Scripts/activate
-        ```
+    ```
+    source venv/Scripts/activate
+    ```
 
 7. Install **nltk** library.
 
