@@ -98,9 +98,9 @@ These below are a few intriguing aspects of **translate_sentence** method:
 
 8. We are watching a movie in the cinema.
 
-9.He walked along the quiet street.
+9. He walked along the quiet street.
 
-10.The teacher gave us homework.
+10. The teacher gave us homework.
 
 11. He is dancing in the room.
 
@@ -120,9 +120,13 @@ These below are a few intriguing aspects of **translate_sentence** method:
 
 1. If the given sentence does not satisfy the given grammar the below error will be provided in the terminal and the program crashes.
 
-![Unidentified grammar error](./Yaw_Axis_Corrected.svg.png)
+![Unidentified grammar error](./WrongGrammar.png)
 
 2. If the given sentence contains a word/phrase that is not present in the given grammar the below error will be provided in the terminal and the program crashes.
 
-![Word not found error](./Yaw_Axis_Corrected.svg.png)
+![Word not found error](./WordMismatch.png)
+
+3. If you are not getting any errors and program ran successfully you would be getting an out as shown in below image.
+
+![Success Image](./Success screenshot.png)
 
